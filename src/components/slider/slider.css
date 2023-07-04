@@ -9,7 +9,7 @@
 
 /* Background */
 .slider-container::before {
-  content: '';
+  content: "";
   background-color: white;
   width: 99%;
   height: calc(var(--progress-bar-height) - 1px);

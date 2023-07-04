@@ -21,10 +21,9 @@ h1 {
 }
 
 .app-container {
-  width: 600px;
-  padding: 0 10px;
-  background-color: #272727;
-  padding: 30px 50px;
+  width: 500px;
+  height: 100px;
+  background-color: #2c2c36;
+  padding: 24px;
   border-radius: 10px;
-  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.479);
 }
